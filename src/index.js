@@ -1,15 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import First from './component/First.js'
+//import Components
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+const Index = () => {
+
+  return (
+    <React.StrictMode>
+      <First />
+    </React.StrictMode>
+  )
+}
+
+let reactContainer = document.querySelector("#root")
+ReactDOM.render(<Index />, reactContainer)
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
