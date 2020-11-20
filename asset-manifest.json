@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/SeanYang816/React.git/static/js/main.3e143937.chunk.js",
-    "main.js.map": "/SeanYang816/React.git/static/js/main.3e143937.chunk.js.map",
-    "runtime-main.js": "/SeanYang816/React.git/static/js/runtime-main.ce92bcfc.js",
-    "runtime-main.js.map": "/SeanYang816/React.git/static/js/runtime-main.ce92bcfc.js.map",
-    "static/js/2.44fda188.chunk.js": "/SeanYang816/React.git/static/js/2.44fda188.chunk.js",
-    "static/js/2.44fda188.chunk.js.map": "/SeanYang816/React.git/static/js/2.44fda188.chunk.js.map",
-    "static/js/3.71d71051.chunk.js": "/SeanYang816/React.git/static/js/3.71d71051.chunk.js",
-    "static/js/3.71d71051.chunk.js.map": "/SeanYang816/React.git/static/js/3.71d71051.chunk.js.map",
-    "index.html": "/SeanYang816/React.git/index.html",
-    "static/js/2.44fda188.chunk.js.LICENSE.txt": "/SeanYang816/React.git/static/js/2.44fda188.chunk.js.LICENSE.txt"
+    "main.js": "/SeanYang816/React.git/Router/static/js/main.3e143937.chunk.js",
+    "main.js.map": "/SeanYang816/React.git/Router/static/js/main.3e143937.chunk.js.map",
+    "runtime-main.js": "/SeanYang816/React.git/Router/static/js/runtime-main.3036658e.js",
+    "runtime-main.js.map": "/SeanYang816/React.git/Router/static/js/runtime-main.3036658e.js.map",
+    "static/js/2.44fda188.chunk.js": "/SeanYang816/React.git/Router/static/js/2.44fda188.chunk.js",
+    "static/js/2.44fda188.chunk.js.map": "/SeanYang816/React.git/Router/static/js/2.44fda188.chunk.js.map",
+    "static/js/3.71d71051.chunk.js": "/SeanYang816/React.git/Router/static/js/3.71d71051.chunk.js",
+    "static/js/3.71d71051.chunk.js.map": "/SeanYang816/React.git/Router/static/js/3.71d71051.chunk.js.map",
+    "index.html": "/SeanYang816/React.git/Router/index.html",
+    "static/js/2.44fda188.chunk.js.LICENSE.txt": "/SeanYang816/React.git/Router/static/js/2.44fda188.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce92bcfc.js",
+    "static/js/runtime-main.3036658e.js",
     "static/js/2.44fda188.chunk.js",
     "static/js/main.3e143937.chunk.js"
   ]
